@@ -1,13 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e189dac3-c670-6c7d-993e-c8f831d35880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro2.Demo", "ToonyColorsPro2.Demo.csproj", "{dd0069b7-5485-ebb3-b753-012a60a96393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Runtime", "ToonyColorsPro.Runtime.csproj", "{7bac3b22-434a-b947-27ed-3f653c59503d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Editor", "ToonyColorsPro.Editor.csproj", "{f94f9d21-96ff-00a3-7cce-84b10ef0e1cf}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{e189dac3-c670-6c7d-993e-c8f831d35880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e189dac3-c670-6c7d-993e-c8f831d35880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dd0069b7-5485-ebb3-b753-012a60a96393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dd0069b7-5485-ebb3-b753-012a60a96393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7bac3b22-434a-b947-27ed-3f653c59503d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7bac3b22-434a-b947-27ed-3f653c59503d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f94f9d21-96ff-00a3-7cce-84b10ef0e1cf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f94f9d21-96ff-00a3-7cce-84b10ef0e1cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
